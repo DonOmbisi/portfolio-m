@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
-    "https://docs.google.com/document/d/13UWaNcSIkESaGWLJ1p4wLlm79Rw6tx47/edit?usp=drive_link&ouid=104451355066249969194&rtpof=true&sd=true",
+    "https://drive.google.com/file/d/1kbwXsMSfk-wuZBLdbRy-1FyUTRvVIPvV/view?usp=drive_link",
   portfolio_repository: "https://github.com/DonOmbisi/portfolio-m",
   githubProfile: "https://github.com/DonOmbisi",
 };
