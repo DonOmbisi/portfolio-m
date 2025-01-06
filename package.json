@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "masterPortfolio",
+  "name": "master-portfolio",
   "version": "0.1.0",
   "homepage": ".",
   "scripts": {
@@ -9,14 +9,25 @@
     "deploy": "gh-pages -b gh-pages -d build",
     "eject": "react-scripts eject",
     "start": "react-scripts --openssl-legacy-provider start",
-    "test": "react-scripts test"
+    "test": "react-scripts test",
+    "test:updates": "npm run update:check && npm test",
+    "update:check": "ncu",
+    "update:interactive": "ncu -i",
+    "update:major": "ncu -u --target latest && npm install",
+    "update:minor": "ncu -u --target minor && npm install",
+    "update:patch": "ncu -u --target patch && npm install"
   },
   "dependencies": {
     "apollo-boost": "^0.4.4",
     "baseui": "^9.65.3",
     "chart.js": "^2.9.3",
-    "gh-pages": "^2.1.1",
+    "gh-pages": "^6.3.0",
+    "master-portfolio": "file:",
+    "masterPortfolio": "file:",
+    "moment-timezone": "^0.5.35",
     "node-fetch": "^2.6.0",
+    "nth-check": "^2.0.1",
+    "postcss": "^8.4.31",
     "prettier-package-json": "^2.1.3",
     "react": "^16.10.2",
     "react-bootstrap": "^1.0.0-beta.16",
@@ -25,12 +36,14 @@
     "react-helmet": "^6.1.0",
     "react-reveal": "^1.2.2",
     "react-router-dom": "^5.1.2",
-    "react-scripts": "3.2.0",
+    "react-scripts": "^5.0.1",
     "styled-components": "^5.1.1",
     "styletron-engine-atomic": "^1.4.6",
-    "styletron-react": "^5.2.7"
+    "styletron-react": "^5.2.7",
+    "timezone-support": "^3.1.0"
   },
   "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "dotenv": "^6.2.0",
     "husky": "^4.2.5",
     "lint-staged": "^10.2.11",

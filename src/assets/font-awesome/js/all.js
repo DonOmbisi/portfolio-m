@@ -13604,7 +13604,7 @@
                   watchable: true,
                 })
               );
-              var element = DOCUMENT.createElement("svg");
+              var element = DOCUMENT.createElementNS("svg");
 
               if (position === ":before") {
                 node.insertBefore(element, node.firstChild);

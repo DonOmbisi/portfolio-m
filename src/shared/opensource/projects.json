@@ -2,46 +2,46 @@
   "data": [
     {
       "id": "R_kgDOJWL0-g",
-      "name": "mdp-diffusion",
-      "createdAt": "2023-04-13T04:18:19Z",
-      "url": "https://github.com/ashutosh1919/mdp-diffusion",
-      "description": "Text-guided image editing by manipulating diffusion path without any training.",
+      "name": "Web3 Hosting",
+      "createdAt": "2024",
+      "url": "https://host3-blond.vercel.app/",
+      "description": "Web3 Hosting Platform.",
       "isFork": false,
       "languages": [
         {
-          "name": "Python",
-          "iconifyClass": "logos-python"
+          "name": "Nextjs",
+          "iconifyClass": ""
         },
         {
           "name": "Shell",
-          "iconifyClass": "simple-icons:shell"
+          "iconifyClass": ""
         },
         {
-          "name": "Jupyter Notebook",
-          "iconifyClass": "logos-jupyter"
+          "name": "Vercel",
+          "iconifyClass": ""
         }
       ]
     },
     {
       "id": "R_kgDOG_vYHA",
-      "name": "explainable-cnn",
-      "createdAt": "2022-03-13T20:41:33Z",
-      "url": "https://github.com/ashutosh1919/explainable-cnn",
-      "description": "📦 PyTorch based visualization package for generating layer-wise explanations for CNNs.",
+      "name": "ThreadCraft AI",
+      "createdAt": "2024",
+      "url": "https://threadcraftai-kappa.vercel.app/",
+      "description": "ThreadCraft AIleverages AI to generate engaging content.",
       "isFork": false,
       "languages": [
         {
           "name": "Python",
-          "iconifyClass": "logos-python"
+          "iconifyClass": ""
         }
       ]
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      "name": "masterPortfolio",
-      "createdAt": "2020-03-06T16:26:54Z",
-      "url": "https://github.com/ashutosh1919/masterPortfolio",
-      "description": "🔥 The Complete Customizable Software Developer Portfolio Template which lets you showcase your work and provides each and every detail about you as Software Developer.",
+      "name": "Yoom",
+      "createdAt": "2024",
+      "url": "https://zoom-snowy-beta.vercel.app/sign-in?redirect_url=https%3A%2F%2Fzoom-snowy-beta.vercel.app%2F",
+      "description": "Video conferencing app.",
       "isFork": false,
       "languages": [
         {
@@ -64,10 +64,10 @@
     },
     {
       "id": "R_kgDOG0_8uQ",
-      "name": "react-awesome-shapes",
-      "createdAt": "2022-02-11T14:50:20Z",
-      "url": "https://github.com/ashutosh1919/react-awesome-shapes",
-      "description": "🌀 Insert Awesome Shapes into Your React Site with Ease.",
+      "name": "Editor",
+      "createdAt": "2024",
+      "url": "https://collaborativeeditor-lime.vercel.app/sign-in",
+      "description": "A collaborative editor Platform.",
       "isFork": false,
       "languages": [
         {
@@ -90,24 +90,24 @@
     },
     {
       "id": "R_kgDOGcPKSQ",
-      "name": "neuro-symbolic-sudoku-solver",
-      "createdAt": "2021-11-26T17:56:07Z",
-      "url": "https://github.com/ashutosh1919/neuro-symbolic-sudoku-solver",
-      "description": "⚙️ Solving sudoku using Deep Reinforcement learning in combination with powerful symbolic representations.",
+      "name": "Healthcare.",
+      "createdAt": "2023",
+      "url": "https://healthcare-lac.vercel.app/",
+      "description": "A healthcare app that enables users to book appointments in advance.",
       "isFork": false,
       "languages": [
         {
           "name": "Python",
-          "iconifyClass": "logos-python"
+          "iconifyClass": ""
         }
       ]
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
-      "name": "react-liquidswipe",
+      "name": "I-Phone",
       "createdAt": "2021-01-01T08:31:51Z",
-      "url": "https://github.com/ashutosh1919/react-liquidswipe",
-      "description": "🚀 Smooth Liquid Swipe Animation to transition between different components.",
+      "url": "https://ishop-mauve.vercel.app/",
+      "description": "I-Phone Advertisement.",
       "isFork": false,
       "languages": [
         {
