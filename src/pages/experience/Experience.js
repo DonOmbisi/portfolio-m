@@ -33,8 +33,8 @@ import ExperienceImg from "./ExperienceImg";
 // 					company: "Muffito Incorporation",
 // 					company_url: "https://www.linkedin.com/company/muffito-inc/about/",
 // 					logo_path: "muffito_logo.png",
-// 					duration: "May 2018 - Oct 2018",
-// 					location: "Pune, Maharashtra",
+// 					duration: "January 2023 - April 2023 ",
+// 					location: "(Remote)Pune, Maharashtra",
 // 					description:
 // 						"I have created complete Android Application for locating Pub, Bar and beverage shops around you. I have also worked on implementation of algorithms for Face Detection, Text extraction from Image. I was involved in a team for creating complete software architecure of mobile and web application as well as admin panel for company.",
 // 					color: "#9b1578"
@@ -44,8 +44,8 @@ import ExperienceImg from "./ExperienceImg";
 // 					company: "FreeCopy Pvt. Ltd.",
 // 					company_url: "https://www.linkedin.com/company/freecopy/about/",
 // 					logo_path: "freecopy_logo.png",
-// 					duration: "Nov 2017 - Dec 2017",
-// 					location: "Ahmedabad, Gujarat",
+// 					duration: "January 2024 - April 2024 ",
+// 					location: "(Remote)Ahmedabad, Gujarat",
 // 					description:
 // 						"FreeCopy is the Start up from Indian Institute of Management, Ahmedabad. I have changed the integration of the whole app from Google to Firebase. I learnt the efﬁcient ways of Data communications like Retroﬁt, Eventbus etc. I experienced the real time start up. I learnt the Design thinking of UI on perspective of People.",
 // 					color: "#fc1f20"
@@ -72,7 +72,7 @@ import ExperienceImg from "./ExperienceImg";
 // 					company_url:
 // 						"https://opencorporates.com/companies/us_dc/EXTUID_4170286",
 // 					logo_path: "intel_logo.jpg",
-// 					duration: "Nov 2018 - Dec 2018",
+// 					duration: "January 2024 - March 2024",
 // 					location: "Work From Home",
 // 					description:
 // 						"This is financial Solution Company. I have made Supervised Learning model for the company which can perform time series analysis on Stock price data for 32 companies. I have built LSTM Neural Networks Model and trained the data of 32 companies for last 2 years. This model is also used for forecasting.",
@@ -88,7 +88,6 @@ import ExperienceImg from "./ExperienceImg";
 // 					company: "Google",
 // 					company_url: "https://about.google/",
 // 					logo_path: "google_logo.png",
-// 					duration: "June 2019 - April 2020",
 // 					location: "Hyderabad, Telangana",
 // 					description:
 // 						"Explore Machine Learning (ML) is a Google-sponsored program for university students to get started with Machine Learning. The curriculum offers 3 tracks of ML Content (Beginner, Intermediate, Advanced) and relies on university student facilitators to train other students on campus and to build opensource projects under this program.",
@@ -99,7 +98,6 @@ import ExperienceImg from "./ExperienceImg";
 // 					company: "Microsoft",
 // 					company_url: "https://www.microsoft.com/",
 // 					logo_path: "microsoft_logo.png",
-// 					duration: "Aug 2019 - May 2020",
 // 					location: "Hyderabad, Telangana",
 // 					description:
 // 						"Microsoft Student Partner is a program for university students to lead the awareness and use of Cloud especially Azure tools in the development of their projects and startups. Under this program, I have organised hands on workshops and seminars to teach Cloud Computing concepts to students.",
