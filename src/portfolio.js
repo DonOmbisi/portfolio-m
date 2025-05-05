@@ -385,7 +385,7 @@ const certifications = {
     {
       title: "ETHICAL HACKER",
       subtitle: "CISCO",
-      logo_path: "",
+      logo_path: "networking-basics.png",
       certificate_link: "https://www.credly.com/badges/912673df-62ef-4c31-a11a-b150b43218d9/public_url",
       alt_name: "CISCO",
       color_code: "#1F70C199",
@@ -393,7 +393,7 @@ const certifications = {
     {
       title: "SOFTWARE ENGINEER",
       subtitle: "HACKERRANK",
-      logo_path: "",
+      logo_path: "networking-basics.png",
       certificate_link: "https://www.hackerrank.com/certificates/00f2c99a924c",
       alt_name: "HACKERRANK",
       color_code: "#1F70C199",
@@ -401,7 +401,7 @@ const certifications = {
     {
       title: "AI Solutions on Cisco Infrastructure Essentials (DCAIE) ",
       subtitle: "CISCO",
-      logo_path: "",
+      logo_path: "networking-basics.png",
       certificate_link: "https://u.cisco.com/my-score-report/complete-certificate?type=cert",
       alt_name: "CISCO",
       color_code: "#1F70C199",
