@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "Don Michael Portfolio",
     type: "website",
-    url: "",
+    url: "https://drive.google.com/file/d/15--jJIZ2x4WOMIxMIuzBjyxWqDrM4FIM/view?usp=drive_link",
   },
 };
 
@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
-    "https://drive.google.com/file/d/1WZjYdFzAIxY5US7sDx0c9lo6N8K9QBH7/view?usp=drive_link",
+    "https://drive.google.com/file/d/15--jJIZ2x4WOMIxMIuzBjyxWqDrM4FIM/view?usp=drive_link",
   portfolio_repository: "https://github.com/DonOmbisi/portfolio-m",
   githubProfile: "https://github.com/DonOmbisi",
 };
@@ -383,11 +383,27 @@ const certifications = {
       color_code: "#0C9D5899",
     },
     {
-      title: "Deep Learning with PyTorch : Image Segmentation",
-      subtitle: "COURSERA",
-      logo_path: "9c980e99-7289-4844-9017-ebf9b2ec4708.avif",
-      certificate_link: "https://coursera.org/verify/QCG55VV5UQP2",
-      alt_name: "COURSERA",
+      title: "ETHICAL HACKER",
+      subtitle: "CISCO",
+      logo_path: "",
+      certificate_link: "https://www.credly.com/badges/912673df-62ef-4c31-a11a-b150b43218d9/public_url",
+      alt_name: "CISCO",
+      color_code: "#1F70C199",
+    },
+    {
+      title: "SOFTWARE ENGINEER",
+      subtitle: "HACKERRANK",
+      logo_path: "",
+      certificate_link: "https://www.hackerrank.com/certificates/00f2c99a924c",
+      alt_name: "HACKERRANK",
+      color_code: "#1F70C199",
+    },
+    {
+      title: "AI Solutions on Cisco Infrastructure Essentials (DCAIE) ",
+      subtitle: "CISCO",
+      logo_path: "",
+      certificate_link: "https://u.cisco.com/my-score-report/complete-certificate?type=cert",
+      alt_name: "CISCO",
       color_code: "#1F70C199",
     },
   ],
@@ -431,7 +447,7 @@ const experience = {
           company: "Muffito Incorporation",
           company_url: "https://www.linkedin.com/company/muffito-inc/about/",
           logo_path: "muffito_logo.png",
-          duration: "May 2018 - Oct 2018",
+          duration: "January 2023 – April 2023",
           description:
             "I have created complete Android Application for locating Pub, Bar and beverage shops around you. I have also worked on implementation of algorithms for Face Detection, Text extraction from Image. I was involved in a team for creating complete software architecure of mobile and web application as well as admin panel for company.",
           color: "#9b1578",
@@ -441,7 +457,7 @@ const experience = {
           company: "FreeCopy Pvt. Ltd.",
           company_url: "https://www.linkedin.com/company/freecopy/about/",
           logo_path: "freecopy_logo.png",
-          duration: "Nov 2017 - Dec 2017",
+          duration: "January 2024 - April 2024 ",
           description:
             "FreeCopy is the Start up from Indian Institute of Management, Ahmedabad. I have changed the integration of the whole app from Google to Firebase. I learnt the efﬁcient ways of Data communications like Retroﬁt, Eventbus etc. I experienced the real time start up. I learnt the Design thinking of UI on perspective of People.",
           color: "#fc1f20",
